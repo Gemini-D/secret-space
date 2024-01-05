@@ -1,6 +1,6 @@
 # 私密空间
 
-![](./resources/logo.jpg)
+![](./resources/qrcode.jpg)
 
 ## 教程视频
 
