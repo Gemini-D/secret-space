@@ -4,19 +4,10 @@
 
 ## 教程视频
 
-### 创建项目
-
-1. 创建 Hyperf 项目，并初始化项目，增加验证器、Swagger 等组件
-2. 创建数据库表 用户表、密码表、内容表
-
-### 后端接口开发
-
-1. 微信登录
-2. 创建密码（四位密码）
-3. 对应密码下，内容增删改查（只支持文本）
-
-### 开发微信小程序
-
-1. 微信登录
-2. 解锁密码和新增密码
-3. 内容增删改查
+- [第1章](https://www.bilibili.com/video/BV1YN4y1W7ak/)
+- [第2章](https://www.bilibili.com/video/BV1GK41147xS/)
+- [第3章](https://www.bilibili.com/video/BV1d94y1u74Y/)
+- [第4章](https://www.bilibili.com/video/BV1kT4y1p7GJ/)
+- [第5章](https://www.bilibili.com/video/BV1Vw411V7vc/)
+- [第6章](https://www.bilibili.com/video/BV1Hb4y1F7XT/)
+- [终章](https://www.bilibili.com/video/BV1Ci4y167FZ/)
