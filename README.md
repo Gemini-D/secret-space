@@ -21,5 +21,4 @@
 
 ## 赞助
 
-![](./resources/wechat.jpg "width:45%")
-![](./resources/alipay.jpg "width:45%")
+![](./resources/pay.jpg)
